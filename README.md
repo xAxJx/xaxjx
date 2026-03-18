@@ -1,11 +1,11 @@
 ## Nice to meet you!
-I am a programmer, educator, artist, and adventurer living in Japan.
+I am a Canadian programmer, educator, artist, and adventurer living in Japan. 🍁🗾
 
 **Tech:** Python, C, Ruby, JavaScript Rails, SQL, PostgreSQL, HTML, CSS, Phaser JS, Stimulus.js, Tkinter
 
-- LeWagon AI Web Software Development Bootcamp Graduate
-- CS50x Graduate
-- Business level Japanese - JLPT N2
+- 🚌 LeWagon AI Web Software Development Bootcamp Graduate
+- 🏫 CS50x Graduate 
+- 🎌 Business level Japanese - JLPT N2
 
 **Current project:** Cycling around Taiwan! 🚵‍♂️
 
