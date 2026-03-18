@@ -1,4 +1,13 @@
-## Hi there 👋
+## Nice to meet you!
+I am a programmer, artist, and adventurer living in Japan.
+
+Tech: Python, C, Ruby, JavaScript Rails, SQL, PostgreSQL, HTML, CSS, Phaser JS, Stimulus.js, Tkinter
+
+-LeWagon AI Web Software Development Bootcamp Graduate
+-CS50x Graduate
+-Business level Japanese - JLPT N2
+
+Current project: Cycling around Taiwan! 🚵‍♂️
 
 <!--
 **xAxJx/xaxjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
