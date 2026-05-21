@@ -7,7 +7,9 @@ I am a Canadian programmer, educator, artist, and adventurer living in Japan. �
 - 🏫 CS50x Graduate 
 - 🎌 Business level Japanese - JLPT N2
 
-**Current project:** Cycling around Taiwan! 🚵‍♂️
+[Check out my portfolio page](https://xaxjx.github.io/Profile/)
+
+**Current project:** Cycling around Taiwan & Vietnam! 🚵‍♂️
 
 <!--
 **xAxJx/xaxjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
